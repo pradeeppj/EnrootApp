@@ -9,20 +9,20 @@ Users can leave their memories with the Augmented photographs anywhere in the wo
 
 <p align="center">
   <img src="./gitimages/img1.png" alt="Enroot"
-       width="1340" height="1144">
+       width="1340" height="500">
 
 </p>
 
 <p align="center">
 
   <img src="./gitimages/img2.png" alt="Enroot"
-  width="1204" height="846">
+  width="1204" height="500">
 </p>
 
 
 <p align="center">
   <img src="./gitimages/img3.png" alt="Enroot"
-  width="1202" height="842">
+  width="1202" height="500">
 
 </p>
 
