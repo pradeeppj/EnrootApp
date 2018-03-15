@@ -1,7 +1,7 @@
 # Enroot AR App 
 
 <img align="right" width="120" height="120"
-     title="Enroot logo" src=".gitimages/logo.webp">
+     title="Enroot logo" src="./gitimages/logo.webp">
 
 Enroot is a location based Augmented Reality photo sharing application that surprises you with your friends' memories at different locations. It also throws back memories from the past based on current your visit to any location. Share your memories at any location forever. Happy Discovery!
 
@@ -11,12 +11,22 @@ Users can leave their memories with the Augmented photographs anywhere in the wo
   <img src="./gitimages/img1.png" alt="Enroot"
        width="1340" height="1144">
 
-       <img src="./gitimages/img2.png" alt="Enroot"
-       width="1204" height="846">
-       <img src="./gitimages/img3.png" alt="Enroot"
-       width="1202" height="842">
+</p>
+
+<p align="center">
+
+  <img src="./gitimages/img2.png" alt="Enroot"
+  width="1204" height="846">
+</p>
+
+
+<p align="center">
+  <img src="./gitimages/img3.png" alt="Enroot"
+  width="1202" height="842">
 
 </p>
+
+
 
 
 ## How It Works
