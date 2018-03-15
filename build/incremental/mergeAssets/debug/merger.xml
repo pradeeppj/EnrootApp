@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="19.0.1" >
+        <source path="C:\Users\SONY\SkyDrive\Documents\EnRoot\EnRoot\build\exploded-aar\com.android.support\appcompat-v7\19.0.1\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\SONY\SkyDrive\Documents\EnRoot\EnRoot\assets" >
+            <file
+                name="login-background.png"
+                path="C:\Users\SONY\SkyDrive\Documents\EnRoot\EnRoot\assets\login-background.png" />
+            <file
+                name="Roboto-Regular.ttf"
+                path="C:\Users\SONY\SkyDrive\Documents\EnRoot\EnRoot\assets\Roboto-Regular.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\SONY\SkyDrive\Documents\EnRoot\EnRoot\build-types\debug\assets" />
+    </dataSet>
+
+</merger>

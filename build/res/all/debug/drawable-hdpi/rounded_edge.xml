@@ -1,0 +1,21 @@
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid
+        android:color="#30ffffff"
+       >
+
+    </solid>
+
+    <stroke
+        android:width="0dp"
+        android:color="#ffffff"
+        >
+    </stroke>
+
+    <corners
+        android:topLeftRadius="10dip"
+        android:topRightRadius="10dip"
+        android:bottomLeftRadius="10dip"
+        android:bottomRightRadius="10dip">
+    </corners>
+</shape><!-- From: file:/C:/Users/SONY/SkyDrive/Documents/EnRoot/EnRoot/res/drawable-hdpi/rounded_edge.xml -->
