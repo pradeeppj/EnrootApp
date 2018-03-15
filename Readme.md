@@ -50,7 +50,7 @@ Enroot uses OpenGL to render these augmented images in the cameraview. Images me
 </p>
 <p align="center">
   <img src="./gitimages/img8.png" alt="Tech"
-       width="850" height="450">
+       width="405" height="649">
 </p>
 
 
